@@ -1,0 +1,11 @@
+Subject: Quick question regarding your IT infrastructure
+
+Hi Alex,
+
+I noticed your team is scaling data integrations across multiple cloud providers. We recently helped a logistics client eliminate 80+ hours of manual portal entry by automating carrier syncs via Playwright.
+
+Would you be open to a 10-minute chat this Thursday to see if a similar approach makes sense for your pipeline?
+
+Best regards,
+OpsTrellis Team
+https://opstrellis.com
