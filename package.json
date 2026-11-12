@@ -1,0 +1,36 @@
+{
+  "name": "@opstrellis/cold-email-spam-checker",
+  "version": "1.0.0",
+  "description": "🛡️ Zero-dependency CLI and Node.js analyzer to score cold email copy for spam trigger words, formatting traps, and deliverability risks.",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "opstrellis-spam-check": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js",
+    "test": "node bin/cli.js examples/sample-email.txt"
+  },
+  "keywords": [
+    "cold-email",
+    "spam-checker",
+    "email-deliverability",
+    "sales-outreach",
+    "inbox-placement",
+    "opstrellis"
+  ],
+  "author": "OpsTrellis <info@opstrellis.com> (https://opstrellis.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpsTrellis/cold-email-spam-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OpsTrellis/cold-email-spam-checker/issues"
+  },
+  "homepage": "https://opstrellis.com/tools/spam-checker/",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
